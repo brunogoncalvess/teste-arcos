@@ -27,7 +27,7 @@ Ter instalado:
 - Clonar este repositório
 
 ```bash
-git clone https://github.com/brunogoncalvess/desafio-junior-1.git
+git clone https://github.com/brunogoncalvess/teste-arcos.git
 ```
 
 >- ### Instalação de Dependências e Inicialização
